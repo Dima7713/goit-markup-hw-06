@@ -1069,6 +1069,7 @@ screen and (min-resolution: 2dppx) and (max-width: 767px) {
 .section-one{
     padding-top: 112px;
     padding-bottom: 112px;
+    margin-bottom: 96px;
 }
 .content{
     display: flex;
@@ -1083,7 +1084,9 @@ screen and (min-resolution: 2dppx) and (max-width: 767px) {
     
     height: 120px;
 }
-
+.hero-section{
+    margin-bottom: 72px;
+}
 
 .descrip-title{
     text-align: start;
